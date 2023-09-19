@@ -1,7 +1,5 @@
 # python-api-analysis
 
-e
-Due Mar 20 by 11:59pm Points 100 Submitting a text entry box or a website url
 Background
 Data's true power is its ability to definitively answer questions. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
 
